@@ -1,0 +1,5 @@
+D:\Stoke通讯\Client\Client\bin\Debug\Client.exe.config
+D:\Stoke通讯\Client\Client\bin\Debug\Client.exe
+D:\Stoke通讯\Client\Client\bin\Debug\Client.pdb
+D:\Stoke通讯\Client\Client\obj\Debug\Client.exe
+D:\Stoke通讯\Client\Client\obj\Debug\Client.pdb

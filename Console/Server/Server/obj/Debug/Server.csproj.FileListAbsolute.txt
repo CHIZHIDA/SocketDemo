@@ -1,0 +1,6 @@
+D:\Stoke通讯\Server\Server\bin\Debug\Server.exe.config
+D:\Stoke通讯\Server\Server\bin\Debug\Server.exe
+D:\Stoke通讯\Server\Server\bin\Debug\Server.pdb
+D:\Stoke通讯\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Stoke通讯\Server\Server\obj\Debug\Server.exe
+D:\Stoke通讯\Server\Server\obj\Debug\Server.pdb
